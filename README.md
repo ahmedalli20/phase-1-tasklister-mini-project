@@ -22,7 +22,7 @@ behavior in the browser.
 2. Open `index.html` in Chrome
 3. Put your JavaScript knowledge to the test and work your way through the
    deliverables
-
+ 
 ### Structuring Your Code
 
 You've been provided with a basic HTML file, as well as an `index.js` file where
